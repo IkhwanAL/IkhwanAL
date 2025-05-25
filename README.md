@@ -12,9 +12,10 @@ But i do interest in open source like how they communicate togeteher to tackle o
 
 ## 🧪 Projects
 
-Here some list my complete project 
+Here some list my project 
 
 - **[Terminal Map Generator](#)** – a game tower defense 2d using `tcell` (Go).
+- **[Conway Game Of Life](#)** - a zero based game using `tcell` (Go).
 - on progress
 
 ## 📫 Let's Connect
