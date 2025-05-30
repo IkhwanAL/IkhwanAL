@@ -21,6 +21,6 @@ Here some list my project
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/ikhwan-a-latif-0413a7202/)
-- 📧 ikhwanal23@gmail.com
+- 📧 ikhwanal235@gmail.com
 
 > A great way to learn is to build something, even what you building is half finish, but hey you learn something right.
