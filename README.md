@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ikhwan A. Latif
 
-Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner. 
+Welcome to my GitHub profile! I'm a passionate developer, and lifelong learner. 
 I love building something whenever is's buiding a simple game, backend service, or anything usefull or not. well except blockchain, it's always confuse me.
 Because when i'm building something, i feel like learn something new, a great way to see a whole different perspective i guess.
 
@@ -16,7 +16,7 @@ Here some list my project
 
 - **[Tower Defense Terminal](#)** – a game tower defense 2d using `tcell` (Go).
 - **[Conway Game Of Life](#)** - a zero based player game using `tcell` (Go).
-- on progress
+- **[LG](#)** - A Search File in Terminal Using `bubbletea` (Go)
 
 ## 📫 Let's Connect
 
