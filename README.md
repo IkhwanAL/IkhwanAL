@@ -7,8 +7,8 @@ Because when i'm building something, i feel like learn something new, a great wa
 But i do interest in open source like how they communicate togeteher to tackle one specific problem and share their view to fix the bug or create a new feature.
 
 My main motivation are to keep simple as it is, because i always ask myself do i need to make it complicated.
-If we look at the current state of the world especially in development, so i try to always keep it in my head to strife simplicity not to make to over complicated.
-Well it does not mean to avoid complexity, i will run into complexity. And if that happen i just need to explode (split in PHP) the complexity problem into small problem and solve it one by one so i can achive simplicty again.
+And so i try to always keep it in my head to strife simplicity not to make it to over complicated.
+Well it does not mean i should avoid complexity, i will run into complexity. And if that happen, i just need to explode (split in PHP) the complexity problem into small problem and solve it one by one so i can achive simplicty again.
 
 ## 🧰 Tech Stack
 
