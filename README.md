@@ -20,7 +20,7 @@ Here some list my project
 
 - **[Tower Defense Terminal](#)** – a game tower defense 2d using `tcell` (Go).
 - **[Conway Game Of Life](#)** - a zero based player game using `tcell` (Go).
-- **[LG](#)** - A Search File in Terminal Using `bubbletea` (Go)
+- **[Terminal-File](https://github.com/IkhwanAL/terminal-file)** - A Search File in Terminal Using `bubbletea` (Go)
 
 ## 📫 Let's Connect
 
