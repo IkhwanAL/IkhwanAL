@@ -21,7 +21,7 @@ Here some list my project
 - **[Tower Defense Terminal](#)** – a game tower defense 2d using `tcell` (Go).
 - **[Conway Game Of Life](#)** - a zero based player game using `tcell` (Go).
 - **[Terminal-File](https://github.com/IkhwanAL/terminal-file)** - A Search File in Terminal Using `bubbletea` (Go)
-- **[Terminal-File](https://github.com/IkhwanAL/ascii_renderer)** - Convert Image To Ascii Format (Go)
+- **[Ascii Render](https://github.com/IkhwanAL/ascii_renderer)** - Convert Image To Ascii Format (Go)
 
 ## 📫 Let's Connect
 
