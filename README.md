@@ -1,27 +1,36 @@
 # 👋 Hi, I'm Ikhwan A. Latif
 
-Welcome to my GitHub profile! I'm a passionate developer, and lifelong learner. 
-I love building something whenever is's buiding a simple game, backend service, or anything usefull or not. well except blockchain, it's always confuse me.
-Because when i'm building something, i feel like learn something new, a great way to see a whole different perspective i guess.
+I’m a curious developer and lifelong learner who enjoys building things to understand how they work. That might be a simple game, a backend service, or something experimental and slightly impractical. Building is how I think, and how I learn.
 
-But i do interest in open source like how they communicate togeteher to tackle one specific problem and share their view to fix the bug or create a new feature.
+What motivates me most is perspective. Every project—small or large—teaches me something new about systems, trade-offs, and design. That’s also why I enjoy exploring fundamentals, not just tools.
 
-My main motivation are to keep simple as it is, because i always ask myself do i need to make it complicated.
-And so i try to always keep it in my head to strife simplicity not to make it to over complicated.
-Well it does not mean i should avoid complexity, i will run into complexity. And if that happen, i just need to explode (split in PHP) the complexity problem into small problem and solve it one by one so i can achive simplicty again.
+I’m especially interested in open source, not only the code but the collaboration itself: how people discuss problems, review ideas, fix bugs, and gradually shape a solution together.
+
+My general philosophy is simplicity first. I often ask myself: does this really need to be complicated?
+Complexity is sometimes unavoidable, but when it appears, I try to break it down into smaller, understandable parts and work through them step by step—until things feel simple again.
 
 ## 🧰 Tech Stack
 
-- 🖥️ Languages: Anything as long i can build something. but mostly is Go right now
+- 🖥️ Languages: Anything as long i can build something. but mostly is Go right nowLanguages: I’m language-agnostic as long as I can build something meaningful.
+
+Currently, I mostly work with Go, but I enjoy learning new languages when the problem calls for it.
 
 ## 🧪 Projects
-
 Here some list my project 
+- **[Simulation World](https://github.com/IkhwanAL/simple-game)**
+A zero-based player game where agents scavenge for food. Built with WebSocket, pure JavaScript, HTML, Tailwind, and Go..
 
-- **[Simulation World](https://github.com/IkhwanAL/simple-game)** – A Zero Based Player Game, Where Agent Scavange for Food using websocket and pure js + html and tailwind (Go).
-- **[Conway Game Of Life](#)** - a zero based player game using `tcell` (Go).
-- **[Terminal-File](https://github.com/IkhwanAL/terminal-file)** - A Search File in Terminal Using `bubbletea` (Go)
-- **[Ascii Render](https://github.com/IkhwanAL/ascii_renderer)** - Convert Image To Ascii Format (Go)
+- **[CPU-Simulation](https://github.com/IkhwanAL/cpu-simulation)**
+A simple CPU simulation to better understand how CPUs work internally (Java).
+
+- **[Map Editor](https://github.com/IkhwanAL/map_editor)**
+A basic map editor built with JavaScript and Go.
+
+- **[Ascii Render](https://github.com/IkhwanAL/ascii_renderer)**
+Converts images into ASCII art (Go).
+
+- **[LogWatcher](https://github.com/IkhwanAL/logwatcher)**
+A tool for watching Linux logs in real time (Java).
 
 ## 📫 Let's Connect
 
