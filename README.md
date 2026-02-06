@@ -11,7 +11,7 @@ Complexity is sometimes unavoidable, but when it appears, I try to break it down
 
 ## 🧰 Tech Stack
 
-- 🖥️ Languages: Anything as long i can build something. but mostly is Go right nowLanguages: I’m language-agnostic as long as I can build something meaningful.
+- 🖥️ Languages: Anything as long i can build something. but mostly is Go right now. I’m language-agnostic as long as I can build something meaningful.
 
 Currently, I mostly work with Go, but I enjoy learning new languages when the problem calls for it.
 
