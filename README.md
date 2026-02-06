@@ -21,16 +21,16 @@ Here some list my project
 A zero-based player game where agents scavenge for food. Built with WebSocket, pure JavaScript, HTML, Tailwind, and Go..
 
 - **[CPU-Simulation](https://github.com/IkhwanAL/cpu-simulation)**
-A simple CPU simulation to better understand how CPUs work internally (Java).
+A simple CPU simulation to better understand how CPUs work internally
 
 - **[Map Editor](https://github.com/IkhwanAL/map_editor)**
 A basic map editor built with JavaScript and Go.
 
 - **[Ascii Render](https://github.com/IkhwanAL/ascii_renderer)**
-Converts images into ASCII art (Go).
+Converts images into ASCII ar
 
 - **[LogWatcher](https://github.com/IkhwanAL/logwatcher)**
-A tool for watching Linux logs in real time (Java).
+A tool for watching Linux logs in real time
 
 ## 📫 Let's Connect
 
