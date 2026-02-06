@@ -27,7 +27,7 @@ A simple CPU simulation to better understand how CPUs work internally
 A basic map editor built with JavaScript and Go.
 
 - **[Ascii Render](https://github.com/IkhwanAL/ascii_renderer)**
-Converts images into ASCII ar
+Converts images into ASCII and Render
 
 - **[LogWatcher](https://github.com/IkhwanAL/logwatcher)**
 A tool for watching Linux logs in real time
